@@ -45,7 +45,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-image: url(../images/coding.jpg);
+    background-image: url(/images/coding.jpg);
     background-size: cover;
     background-position: center;
     height: 650px;
