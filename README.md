@@ -1,20 +1,48 @@
-# 🌐 Persönliche Portfolio-Webseite  
+# 🌐 Personal Portfolio Website
 
-## 📌 Beschreibung  
-Diese **Portfolio-Webseite** wurde mit **HTML und CSS** entwickelt, um meine grundlegenden Webentwicklungsfähigkeiten zu demonstrieren. Sie dient als digitale Visitenkarte und zeigt mein Wissen in strukturiertem HTML-Markup, modernem CSS-Design sowie Responsive Design-Prinzipien.  
+## 📌 Project Description
 
-💡 **Warum dieses Projekt?**  
-- Präsentation meiner **HTML & CSS Skills** 
-- Erlernen von **Flexbox**, **CSS Grid**, und **Responsive Design**  
-- Umsetzung eines **cleanen & professionellen Layouts** ohne JavaScript  
+This **portfolio website** was built using **HTML and CSS** to showcase my foundational front-end development skills. It serves as a digital business card, highlighting my ability to write clean, semantic HTML and apply modern, responsive CSS design techniques.
 
-👨‍💻 **Was ich gelernt habe:**  
-- Strukturierung von Inhalten mit **semantischem HTML**  
-- Designen einer ansprechenden Benutzeroberfläche mit **CSS**  
-- Erstellung einer **Responsive Navigation** für mobile Geräte  
+---
 
-## 🚀 Features  
-✅ **Moderne, minimalistische UI** mit klarem Design  
-✅ **Responsive Design** für mobilen Geräten  
-✅ **Dynamisches Layout** mit alternierender Text- und Bildanordnung für bessere Lesbarkeit  
-✅ **Saubere & gut strukturierte HTML/CSS-Codebasis**  
+## 💡 Purpose of the Project
+
+- To demonstrate my **HTML and CSS capabilities**
+- To practice and apply **Flexbox**, **CSS Grid**, and **Responsive Design**
+- To create a **clean and professional layout** without JavaScript
+
+---
+
+## 👨‍💻 What I Learned
+
+- Structuring content with **semantic HTML**
+- Designing modern user interfaces with **CSS**
+- Building a **responsive navigation menu** for mobile and desktop
+- Creating visually balanced layouts with **flexible grid systems**
+
+---
+
+## 🚀 Features
+
+✅ **Modern, minimalist user interface** with consistent design  
+✅ **Responsive layout** – fully mobile-friendly  
+✅ **Alternating text/image sections** for visual rhythm and readability  
+✅ **Well-organized, clean HTML & CSS codebase**  
+
+---
+
+## 🔧 Tech Stack
+
+- **HTML5** – semantic, accessible structure  
+- **CSS3** – responsive styling with Flexbox and Grid  
+- **No JavaScript** – layout and interaction purely with CSS
+
+---
+
+## 🌍 Live Demo
+
+📎 [Visit the Live Site](https://tomelliott96.github.io/personal-webpage/)
+
+
+
